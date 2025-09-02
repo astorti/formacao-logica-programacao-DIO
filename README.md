@@ -64,3 +64,19 @@ Repositório para implementação e estudo dos códigos desenvolvidos durante o 
         - AND (&&)
         - OR (||)
         - NOT (!)
+    - estruturas de controle
+        - condicionais
+        - switch case
+        - estruturas de repetição
+            - for
+            - while
+            - do-while
+            
+- **Funções**
+    - Funções
+    - Funções com parâmetros
+    - Funções com retorno
+
+- **Desafios de Projetos**
+    - [Classificador de Nível de Herói](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/01-classificador-de-nivel-de-heroi)
+    - [Calculadora de Partidas Rankeadas](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/02-calculadora-de-partidas-rankeadas)
