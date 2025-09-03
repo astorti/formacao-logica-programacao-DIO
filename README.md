@@ -77,6 +77,10 @@ Repositório para implementação e estudo dos códigos desenvolvidos durante o 
     - Funções com parâmetros
     - Funções com retorno
 
+- **Estruturas de Dados e Objetos**
+    - Json - Javascript Object Notation
+    - Classes
+
 - **Desafios de Códigos**
     - **Desafio 01: Jornada do Herói**
     Você é um jovem herói que embarca em uma jornada épica para derrotar o temido dragão que aterroriza o reino. No entanto, você precisa atravessar uma floresta perigosa para chegar à caverna do dragão. Cada passo é crucial, e sua jornada será determinada pela lógica afiada que você possuir. **Tarefa**: Escreva um algoritmo que simule a jornada do herói pela floresta. O herói começa em uma posição inicial e deve dar uma série de passos para atravessar a floresta até a caverna do dragão. **Entrada**: **1**:A posição inicial do herói na floresta (um número inteiro). **2**: O número total de passos que o herói deve dar (um número inteiro). **Saída**: Imprima a posição final do herói após dar a quantidade de passos especificada.
@@ -102,3 +106,4 @@ Repositório para implementação e estudo dos códigos desenvolvidos durante o 
 - **Desafios de Projetos**
     - [Classificador de Nível de Herói](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/01-classificador-de-nivel-de-heroi)
     - [Calculadora de Partidas Rankeadas](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/02-calculadora-de-partidas-rankeadas)
+    - [Escrevendo as Classes de um Jogo](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/03-escrevendo-as-classes-de-um-jogo)
